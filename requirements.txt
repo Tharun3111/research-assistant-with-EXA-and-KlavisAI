@@ -1,0 +1,12 @@
+# Exa AI MCP Server Dependencies
+# Core MCP and Exa requirements
+exa-py>=1.0.0
+mcp>=1.0.0
+
+# Additional dependencies for robust functionality
+typing-extensions>=4.0.0
+pydantic>=2.0.0
+
+# For development and testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
